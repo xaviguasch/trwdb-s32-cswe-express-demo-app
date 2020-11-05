@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/xaviguasch/trwdb-s32-cswe-express-demo-app/issues"
   },
-  "homepage": "https://github.com/xaviguasch/trwdb-s32-cswe-express-demo-app#readme"
+  "homepage": "https://github.com/xaviguasch/trwdb-s32-cswe-express-demo-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
